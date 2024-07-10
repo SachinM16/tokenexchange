@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tokenexchange/static/css/main.e6c13ad2.css",
+    "main.js": "/tokenexchange/static/js/main.88736862.js",
+    "static/js/453.482be240.chunk.js": "/tokenexchange/static/js/453.482be240.chunk.js",
+    "index.html": "/tokenexchange/index.html",
+    "main.e6c13ad2.css.map": "/tokenexchange/static/css/main.e6c13ad2.css.map",
+    "main.88736862.js.map": "/tokenexchange/static/js/main.88736862.js.map",
+    "453.482be240.chunk.js.map": "/tokenexchange/static/js/453.482be240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.88736862.js"
+  ]
+}
